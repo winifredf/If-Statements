@@ -1,5 +1,7 @@
 Practice using different if statements with Boolean variables
 
+Use multiple variables within if statments
+
 Use different if statements, varying in complexities, to control the flow.
 
 Use if statements to control the flow pertaining to the below statements and scenarios!
