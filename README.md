@@ -11,6 +11,7 @@ Write if/else statements to render "I am fulfilled."
 #    Therefore I am fulfilled
 # Otherwise I will not reach my goals
 
+Add another boolean variable and set it equal to True.
 
 # Im on vacation
 # if I want to go to the beach
