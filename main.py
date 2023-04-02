@@ -1,7 +1,7 @@
-is_happy = True
+is_happy = False
 and_you_know_it = True 
-if is_happy or and_you_know_it:
-    print("I am fulfilled")
+if is_happy and and_you_know_it:
+    print("clap your hands")
 else:
     print("I am not fulfilled")
-# Output: I am fulfilled
+#output: clap your hands
