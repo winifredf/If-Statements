@@ -7,11 +7,12 @@ Use different if statements, varying in complexities, to control the flow.
 Use if statements to control the flow pertaining to the below statements and scenarios!
 
 Write if/else statements to render "I am fulfilled."
+Use "or" in if statement and print output.
+Use "and" in if statement and print output.
+Change a Boolean variable to false and print output.
 # I am happy
 #    Therefore I am fulfilled
-# Otherwise I will not reach my goals
-
-Add another boolean variable and set it equal to True.
+# Otherwise I am not fulfilled.
 
 # Im on vacation
 # if I want to go to the beach
