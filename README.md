@@ -10,6 +10,9 @@ Write if/else statements to render "I am fulfilled."
 Use "or" in if statement and print output.
 Use "and" in if statement and print output.
 Change a Boolean variable to false and print output.
+Use elif (else if) within an if statement.
+Use else if to check for multiple conditions
+Use not within if statement
 # I am happy
 #    Therefore I am fulfilled
 # Otherwise I am not fulfilled.
