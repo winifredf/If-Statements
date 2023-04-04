@@ -6,5 +6,7 @@ else:
     print("I am not fulfilled")
 #output: clap your hands
 
-
-
+on_vacation = True
+go_to_beach = True
+if on_vacation and go_to_beach:
+    print("I wear my swimsuit")
