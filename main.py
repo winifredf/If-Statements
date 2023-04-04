@@ -8,5 +8,10 @@ else:
 
 on_vacation = True
 go_to_beach = True
+is_hungry = True
 if on_vacation and go_to_beach:
     print("I wear my swimsuit")
+elif on_vacation and not go_to_beach:
+    print("I wear my casual clothes")
+elif on_vacation and is_hungry:
+    print("I go to the restaurant")
